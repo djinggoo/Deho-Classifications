@@ -4,6 +4,9 @@ import cv2
 import ntpath
 from pathlib import Path
 
+# need data ? go to : https://drive.google.com/drive/folders/1omxH7nWVQMQe9qMBgBq86OgATV3q-FKS?usp=sharing
+# but data training available only 69 and testing 49 (sad broh :')
+
 path_data_training = ''
 path_data_testing = ''
 path_export_data = str(Path(__file__).parent)+'/data/'
